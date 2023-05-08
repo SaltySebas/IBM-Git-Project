@@ -1,3 +1,9 @@
 # IBM-Git-Project
 
-# This project is where I act as a developer for a micro-finance startup with a mission to empower and provide opportunities to low income individuals. I will help slowly move their code to Github and create a repository for them!
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
